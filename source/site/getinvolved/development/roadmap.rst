@@ -97,7 +97,7 @@ repositories.  This happens as soon as a new LR is released.
 This schedule is also available as `"iCalendar" </schedule.ics>`_.
 
 .. include:: schedule.inc
-
+ 
 .. csv-table:: Event legend
    :header: "Event", "Description"
    :widths: 1, 9
